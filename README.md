@@ -23,5 +23,5 @@
 ![Test Screenshot Mobile](https://github.com/conniel77/Scratch/blob/main/Test-Screenshots/Test%20Screenshot-Mobile.png)
 
 *Detailed page of a note in desktop view*
-![Test Screenshot Detailed](https://github.com/conniel77/Scratch/blob/main/Test-Screenshots/Test%20Screenshot-Detailed%20Page.png)
+![Test Screenshot Detailed](https://github.com/conniel77/Scratch/blob/main/Test-Screenshots/Test%20Screenshot-Detailed.png)
 
