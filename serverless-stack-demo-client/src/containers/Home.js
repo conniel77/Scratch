@@ -111,7 +111,6 @@ export default function Home() {
       if (highlightBegin >= 3) {
         return (
           <span className="space">
-            {" "}
             ...
             {highlightAll(
               text.substring(highlightBegin - 3, text.length),

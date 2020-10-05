@@ -49,48 +49,42 @@
 .vertical-center {
   padding-top: 7px;
 }
-.lander-title {
+
+.Home .lander-title {
   font-size: 120px;
 }
 
-.lander-subtitle {
+.Home .lander-subtitle {
   font-size: 25px;
 }
 
-.form-control:focus {
-  box-shadow: none;
-  border-width: 5px;
-  outline: none !important;
-  border: 3px solid #2e9f9c;
-}
-
-.search-icon {
+.Home .search-icon {
   background-color: #2e9f9c;
   color: white;
 }
 
-.align-btn {
+.Home .align-btn {
   text-align: right;
 }
 
-.list-group-item-text {
+.Home .list-group-item-text {
   overflow: hidden;
   white-space: nowrap;
   text-overflow: ellipsis;
 }
 
 @media screen and (max-width: 893px) {
-  .align-btn {
+  .Home .align-btn {
     text-align: center !important;
     margin-bottom: 3px;
   }
 }
 
 @media screen and (max-width: 530px) {
-  .lander-title {
+  .Home .lander-title {
     font-size: 70px;
   }
-  .lander-subtitle {
+  .Home .lander-subtitle {
     font-size: 18px;
   }
   .Home .space {

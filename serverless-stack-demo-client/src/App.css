@@ -50,6 +50,17 @@
   background-color: white;
 }
 
+.center {
+  text-align: center;
+}
+
+.form-control:focus {
+  box-shadow: none;
+  border-width: 5px;
+  outline: none !important;
+  border: 3px solid #2e9f9c;
+}
+
 /* Button standard */
 .btn-teal {
   background-color: #2d9996;
@@ -62,13 +73,13 @@
   color: white;
 }
 
+/* Button with disable */
 .disabled-btn {
   color: white;
   background-color: #2d9996;
   transition: all 0.3s ease 0s, transform 0.5s ease 0s;
 }
 
-/* Button with disable */
 .disabled-btn:hover {
   color: white;
   background-color: #298e8b;
