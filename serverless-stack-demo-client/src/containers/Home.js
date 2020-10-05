@@ -108,14 +108,26 @@ export default function Home() {
     }
     let highlightBegin = text.toLowerCase().indexOf(search.toLowerCase());
     if (highlightBegin !== -1) {
-      let lineBegin = highlightBegin >= 3 ? highlightBegin - 3 : 0;
-      return (
-        <span className="space">
-          {highlightAll(text.substring(lineBegin, text.length), search)}
-        </span>
-      );
+      if (highlightBegin >= 3) {
+        return (
+          <span className="space">
+            {" "}
+            ...
+            {highlightAll(
+              text.substring(highlightBegin - 3, text.length),
+              search
+            )}
+          </span>
+        );
+      } else {
+        return (
+          <span className="space">
+            {highlightAll(text.substring(0, text.length), search)}
+          </span>
+        );
+      }
     } else {
-      return <span>{text}</span>;
+      return <span className="space">{text}</span>;
     }
   }
 
