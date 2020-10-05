@@ -163,7 +163,6 @@ export default function Notes() {
                   type="submit"
                   bsSize="large"
                   className="save-button"
-                  isLoading={isLoading}
                   disabled={!validateForm()}
                 >
                   <Glyphicon glyph="save" className="icon" />
@@ -176,7 +175,6 @@ export default function Notes() {
                   bsSize="large"
                   bsStyle="danger"
                   onClick={handleDelete}
-                  isLoading={isDeleting}
                 >
                   <Glyphicon glyph="trash" className="icon" />
                   Delete
