@@ -12,4 +12,4 @@
   3. Display a substring containing the search string found in the note body
 
 ## Test Screenshots
-![Test Screenshot](https://drive.google.com/file/d/1X9_T24gg5jzrF6bzzEYBVifMJzjmbWs_/view?usp=sharing)
+![Test Screenshot](https://imgur.com/LKyKUrl)
