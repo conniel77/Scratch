@@ -1,0 +1,28 @@
+.Notes form {
+  padding-bottom: 15px;
+}
+
+.Notes form textarea {
+  height: 300px;
+  font-size: 24px;
+}
+
+.Notes .save-button {
+  background-color: #2e9f9c;
+  color: white;
+  transition-duration: 0.2s;
+}
+
+.Notes .save-button:hover {
+  background-color: #298e8b;
+  color: white;
+}
+
+.icon {
+  margin-right: 10px;
+}
+
+.center {
+  text-align: center;
+  margin-top: 5px;
+}

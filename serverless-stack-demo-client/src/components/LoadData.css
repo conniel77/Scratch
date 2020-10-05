@@ -1,0 +1,23 @@
+.loading.glyphicon {
+  color: #2e9f9c;
+  margin-right: 7px;
+  top: 2px;
+  animation: spin 1s infinite linear;
+}
+@keyframes spin {
+  from {
+    transform: scale(1) rotate(0deg);
+  }
+  to {
+    transform: scale(1) rotate(360deg);
+  }
+}
+
+.glyphicon.glyphicon-refresh {
+  font-size: 100px;
+}
+
+.loading {
+  text-align: center;
+  margin-top: 100px;
+}

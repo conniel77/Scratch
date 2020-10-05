@@ -1,0 +1,99 @@
+.Home .lander {
+  padding: 80px 0;
+  text-align: center;
+}
+
+.Home .lander h1 {
+  font-family: "Open Sans", sans-serif;
+  font-weight: 600;
+}
+
+.Home .lander p {
+  color: #999;
+}
+
+.Home .notes h4 {
+  font-family: "Open Sans", sans-serif;
+  font-weight: 600;
+  overflow: hidden;
+  line-height: 1.5;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+.Home .notes p {
+  color: #666;
+}
+
+.Home .lander div {
+  padding-top: 20px;
+}
+.Home .lander div a:first-child {
+  margin-right: 20px;
+}
+
+.Home .space {
+  padding-left: 80px;
+}
+
+.Home .create-btn {
+  background-color: #2d9996;
+  transition: all 0.3s ease 0s, transform 0.5s ease 0s;
+  color: white;
+}
+
+.Home .create-btn:hover {
+  background-color: #298e8b;
+  color: white;
+}
+
+.vertical-center {
+  padding-top: 7px;
+}
+.lander-title {
+  font-size: 120px;
+}
+
+.lander-subtitle {
+  font-size: 25px;
+}
+
+.form-control:focus {
+  box-shadow: none;
+  border-width: 5px;
+  outline: none !important;
+  border: 3px solid #2e9f9c;
+}
+
+.search-icon {
+  background-color: #2e9f9c;
+  color: white;
+}
+
+.align-btn {
+  text-align: right;
+}
+
+.list-group-item-text {
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+
+@media screen and (max-width: 893px) {
+  .align-btn {
+    text-align: center !important;
+    margin-bottom: 3px;
+  }
+}
+
+@media screen and (max-width: 530px) {
+  .lander-title {
+    font-size: 70px;
+  }
+  .lander-subtitle {
+    font-size: 18px;
+  }
+  .Home .space {
+    padding-left: 20px;
+  }
+}

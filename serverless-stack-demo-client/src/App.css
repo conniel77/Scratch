@@ -1,0 +1,86 @@
+.App {
+  margin-top: 15px;
+}
+
+.App .navbar-brand {
+  font-weight: bold;
+}
+
+.App .navColor {
+  background-color: #2d9996;
+}
+
+.App .navbar-default .navbar-brand {
+  color: white;
+  margin-top: 1px;
+  margin-bottom: 1px;
+}
+
+.App .navbar-default .navbar-nav > li > a {
+  color: white;
+}
+
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+  color: white;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+.App .navbar-nav > .active > a:hover {
+  color: white;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+.App .navbar-nav > .active > a:focus {
+  color: white;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+.navbar-default .navbar-nav > .active > a,
+ .navbar-default .navbar-nav > .active > a:focus,
+.navbar-default .navbar-nav > .active > a:hover {
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+  background-color: white;
+}
+
+/* Button standard */
+.btn-teal {
+  background-color: #2d9996;
+  color: white;
+  transition-duration: 0.2s;
+}
+
+.btn-teal:hover {
+  background-color: #298e8b;
+  color: white;
+}
+
+.disabled-btn {
+  color: white;
+  background-color: #2d9996;
+  transition: all 0.3s ease 0s, transform 0.5s ease 0s;
+}
+
+/* Button with disable */
+.disabled-btn:hover {
+  color: white;
+  background-color: #298e8b;
+}
+
+.disabled-btn:disabled {
+  color: white;
+  pointer-events: none;
+  background-color: rgb(201, 201, 201);
+}
+
+.disabled-btn:focus {
+  background-color: #2d9996;
+  color: white;
+}
