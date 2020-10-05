@@ -13,15 +13,15 @@
 
 ## Test Screenshots
 
-*Home screen displaying rendered notes*
+*Home screen displaying rendered notes in desktop view*
 ![Test Screenshot List](https://github.com/conniel77/Scratch/blob/main/Test-Screenshots/Test%20Screenshot-List.png)
 
-*Filters and displays the highlighted search string*
+*Filters and displays the highlighted search string in desktop view*
 ![Test Screenshot Search](https://github.com/conniel77/Scratch/blob/main/Test-Screenshots/Test%20Screenshot-Search.png)
 
 *Responsive design of the search function in mobile view*
 ![Test Screenshot Mobile](https://github.com/conniel77/Scratch/blob/main/Test-Screenshots/Test%20Screenshot-Mobile.png)
 
-*Detailed page of a note*
+*Detailed page of a note in desktop view*
 ![Test Screenshot Detailed](https://github.com/conniel77/Scratch/blob/main/Test-Screenshots/Test%20Screenshot-Detailed%20Page.png)
 
