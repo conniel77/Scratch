@@ -143,8 +143,7 @@ export default function Home() {
         >
           {new Date(note.createdAt).toLocaleString()}
           <span className="space">
-            {console.log(note.content.trim().split("\n").length)}
-            {note.content.trim().split("\n")[1]
+            {note.content.trim().split("\n").length !== 1
               ? highlightSubstring(
                   note.content.substring(note.content.indexOf("\n")),
                   search
