@@ -10,3 +10,6 @@
   1. Allow user to enter a search string, and display notes which contains the search string
   2. Highlight all the search strings found in the note title
   3. Display a substring containing the search string found in the note body
+
+## Test Screenshots
+![Test Screenshot](https://drive.google.com/file/d/1X9_T24gg5jzrF6bzzEYBVifMJzjmbWs_/view?usp=sharing)
