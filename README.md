@@ -12,7 +12,11 @@
   3. Display a substring containing the search string found in the note body
 
 ## Test Screenshots
+Home screen displaying rendered notes
 ![Test Screenshot List](https://github.com/conniel77/Scratch/blob/main/Test-Screenshots/Test%20Screenshot-List.png)
+Filters and displays the highlighted search string
 ![Test Screenshot Search](https://github.com/conniel77/Scratch/blob/main/Test-Screenshots/Test%20Screenshot-Search.png)
+Responsive design of the search function in mobile view
 ![Test Screenshot Mobile](https://github.com/conniel77/Scratch/blob/main/Test-Screenshots/Test%20Screenshot-Mobile.png)
+Detailed page of a note
 ![Test Screenshot Detailed](https://github.com/conniel77/Scratch/blob/main/Test-Screenshots/Test%20Screenshot-Detailed%20Page.png)
