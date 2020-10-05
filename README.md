@@ -14,5 +14,5 @@
 ## Test Screenshots
 ![Test Screenshot List](https://github.com/conniel77/Scratch/blob/main/Test-Screenshots/Test%20Screenshot-List.png)
 ![Test Screenshot Search](https://github.com/conniel77/Scratch/blob/main/Test-Screenshots/Test%20Screenshot-Search.png)
-![Test Screenshot Mobile](https://github.com/conniel77/Scratch/blob/main/Test-Screenshots/Test%20Screenshot-Responsive%20Mobile.png)
+![Test Screenshot Mobile](https://github.com/conniel77/Scratch/blob/main/Test-Screenshots/Test%20Screenshot-Mobile.png)
 ![Test Screenshot Detailed](https://github.com/conniel77/Scratch/blob/main/Test-Screenshots/Test%20Screenshot-Detailed%20Page.png)
